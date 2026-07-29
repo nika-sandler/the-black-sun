@@ -10,6 +10,8 @@ This repository includes:
 ## DOI and Archiving
 The project is also archived on Zenodo (https://doi.org/10.5281/zenodo.15678107), where it has been assigned a permanent DOI for citation and long-term preservation.
 
+The zine The Black Sun preserved in the archive of The Photographers' Gallery
+
 Other Archives:
 
 – Internet Archive
